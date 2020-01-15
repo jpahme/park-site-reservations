@@ -4,4 +4,5 @@ This is a scheduling application for National Park site visits. It is a command 
 
 
 **What I Learned:**
+
 I learned a lot about databases, and querying databases through this project. Working with dates, and scheduling park visits that did not overlap proved to be very challenging and required me to reinforce my understanding of database structure and design. In addition to all I learned about databases through my work in PostgreSQL, and connecting PostgreSQL with a Java application, a lesson I took away from this project was how to properly compartmentalize things. There were a lot of parameters that needed to be passed around, so I had an inclination to put a lot of things in the same class or interface, but as I have learned in my side projects, abstraction makes the code much more understandable and readable to anyone looking through it (Including myself) who wishes to work on it.
